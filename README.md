@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi sir, i am Bryan, a trivial programmer   👋
 
 Here are some ideas to get you started:
 
