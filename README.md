@@ -1,6 +1,4 @@
-### Hi sir, i am Bryan, a trivial programmer   👋
-
-Here are some ideas to get you started:
+### </b>Hi sir, i am Bryan, a trivial programmer  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px">   👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,3 +22,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
