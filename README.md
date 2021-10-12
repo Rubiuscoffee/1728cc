@@ -14,6 +14,9 @@ I'm Bryan from Colombia, and I do Development. I really enjoy learning languages
   <a href="link" target="_blank"><img align="left" alt="youtube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank"></a>
     <a href="link" target="_blank"><img align="left" alt="youtube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"></a>
     <a href="link" target="_blank"><img align="left" alt="youtube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" target="_blank"></a>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1447740749596999680/Xfvxhy2P_400x400.jpg"?width=676&height=676?width=676&height=676">
+</div>
+</div>
 
 <br /> 
 
