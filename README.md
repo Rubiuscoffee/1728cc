@@ -1,14 +1,11 @@
-### **Hi there 👋, I'm Bryan** <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
-
+### Hi there 👋, I'm Bryan <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
 #### Developer
 ![Developer](https://pbs.twimg.com/profile_banners/1247138588468412416/1634003306/1500x500)
 
 I'm Bryan from Colombia, and I do Development. I really enjoy learning languages.
 
 - <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working on a Discord bot (Music/Moderation)
- 
 - <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> Pronouns: He/him
-
 - <img src="https://cdn.betterttv.net/emote/5c707362b80b802336fbb84a/3x" width="23px"> Fun fact: Dude you know that... [Click here for more](https://www.youtube.com/watch?v=dQw4w9WgXcQ). yeah.... I am funny LMAO
 
 ### Connect with me:
@@ -25,6 +22,6 @@ I'm Bryan from Colombia, and I do Development. I really enjoy learning languages
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
