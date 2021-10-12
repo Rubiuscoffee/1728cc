@@ -1,11 +1,12 @@
-### Hi there, I'm Bryan <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
+## **Hi sir, I'm Bryan** <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
 
-## About me 
+ **About me** 
 
-- <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="18px"> I’m currently working on [A discord bot]()
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Dude you know that... [Click here for more](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working on [a discord bot]()
+ 
+- <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> Pronouns: He/him
+
+- <img src="https://cdn.betterttv.net/emote/5c707362b80b802336fbb84a/3x" width="23px"> Fun fact: Dude you know that... [Click here for more](https://www.youtube.com/watch?v=dQw4w9WgXcQ). yeah.... I am funny LMAO
 
 ### Connect with me:
 <div> 
