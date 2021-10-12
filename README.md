@@ -1,14 +1,11 @@
-### </b>Hi sir, i am Bryan, a trivial programmer  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px">   👋
+### Hi there, I'm Bryan <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
 
-- 🔭 I’m currently working on ...
+## About me 
+
+- <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="18px"> I’m currently working on [A discord bot]()
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Dude you know that... [Click here for more](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Connect with me:
 <div> 
@@ -16,7 +13,7 @@
     <a href="link" target="_blank"><img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"></a>
     <a href="link" target="_blank"><img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" target="_blank"></a>
 
-<br />
+<br /> 
 
 ### Languages and Tools:
 
