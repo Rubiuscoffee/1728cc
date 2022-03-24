@@ -6,8 +6,8 @@ I'm a programmer, and I do Development. I really enjoy learning languages.
 ## About me
 
 - <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working on...
-- <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> Pronouns: He/him
-- <img src="https://cdn.betterttv.net/emote/5c707362b80b802336fbb84a/3x" width="23px"> Fun fact: Dude you know that... [oops](https://www.youtube.com/watch?v=dQw4w9WgXcQ). **I think I am funny XD**
+- <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> 
+- <img src="https://cdn.betterttv.net/emote/5c707362b80b802336fbb84a/3x" width="23px"> [lol](https://www.youtube.com/watch?v=dQw4w9WgXcQ). **I think I am funny XD**
 
 ## Connect with me:
 <div> 
