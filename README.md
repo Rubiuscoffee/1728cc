@@ -5,9 +5,9 @@ I'm a programmer, and I do Development. I really enjoy learning languages.
 
 ## About me
 
-- <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working on...
-- <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> 
-- <img src="https://cdn.betterttv.net/emote/5c707362b80b802336fbb84a/3x" width="23px"> [Bruh](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+- <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working in a little project
+- <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> I don't know what to put
+- <img src="https://cdn.betterttv.net/emote/5c707362b80b802336fbb84a/3x" width="23px"> Don't click here -> [TOS](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 ## Connect with me:
 <div> 
