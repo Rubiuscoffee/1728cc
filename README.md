@@ -1,7 +1,7 @@
 ![Developer](https://pbs.twimg.com/profile_banners/398306220/1648058098/1500x500)
 
 # Hello there 👋, I'm a bot <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
-I'm Bryan from Colombia, and I do Development. I really enjoy learning languages.
+I'm a programmer, and I do Development. I really enjoy learning languages.
 
 ## About me
 
