@@ -21,6 +21,9 @@
 
 >_About me_
 
+#### *16 yo talent*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/3x" width="30"/> and in my free time I play games 🎮 or make bit 🎵.
+#### some of skills:
+
 - <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working in a little project
 - <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> I don't know what to put
 - <img src="https://cdn.betterttv.net/emote/5c707362b80b802336fbb84a/3x" width="23px"> Don't click here -> [TOS](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
