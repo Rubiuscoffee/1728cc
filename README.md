@@ -13,6 +13,8 @@
 <a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="royryando" height="35" width="35" />      </a>
 <a href="link/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="ManiFast" height="35" width="35" />      </a>
 
+  
+</p>
 >_About me_
 
 - <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working in a little project
