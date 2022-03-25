@@ -35,8 +35,8 @@
   
   
 <!--!CSS-->
+####  
 #### I really enjoy learning languages and frameworks.
-#### My favorite performer is 10nonly.
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
 
 <p align="center">
