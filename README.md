@@ -3,7 +3,12 @@
 
 <p align="center"><i><b>Hello there !     </b><img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="25"/></i></p> 
 
-# 
+<p align="center">
+</p>
+  
+ <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
+  
+
 <p align="center">
 <i><b>Profiles</b></i>
 </p>
