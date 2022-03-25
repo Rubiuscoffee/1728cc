@@ -4,7 +4,7 @@
 # Hello there 👋, I'm a bot <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
 I'm a programmer, and I do Development. I really enjoy learning languages.
 
-## About me
+>_About me_
 
 - <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working in a little project
 - <img src="https://cdn.betterttv.net/emote/5d8b41c8d2458468c1f48d6e/3x" width="23px"> I don't know what to put
