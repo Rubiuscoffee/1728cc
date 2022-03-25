@@ -21,7 +21,7 @@
 
 >_About me_
 
-#### *16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="23"/> and in my free time I play games.
+#### *16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="30"/> and in my free time I play games.
 #### Languages and Tools:
 
 
