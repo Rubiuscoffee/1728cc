@@ -1,7 +1,7 @@
 
 [![Header](https://pbs.twimg.com/profile_banners/398306220/1648058098/1500x500)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
-# Hello there 👋, I'm a bot <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
+<p align="center"><i><b>Hello there !     </b><img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="25"/></i></p> 
 
 <p align="center">
 <i><b>Profiles</b></i>
