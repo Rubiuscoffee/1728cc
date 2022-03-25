@@ -32,9 +32,11 @@
 <img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 <img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
   
-####I really enjoy learning languages and frameworks.
-####My favorite performer is 10nonly.
-######*«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
+  
+<!--!CSS-->
+#### I really enjoy learning languages and frameworks.
+#### My favorite performer is 10nonly.
+###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
 
 <p align="center">
 </p>
