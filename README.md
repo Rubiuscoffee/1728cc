@@ -21,7 +21,7 @@
 
 >_About me_
 
-#### *16 yo talent*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/3x" width="30"/> and in my free time I play games 🎮 or make bit 🎵.
+#### *16 yo talent*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="23"/> and in my free time I play games 🎮 or make bit 🎵.
 #### some of skills:
 
 - <img src="https://cdn.betterttv.net/emote/5f2e77591ab9be446c4e8d9b/3x" width="23px"> I’m currently working in a little project
