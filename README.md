@@ -2,7 +2,15 @@
 [![Header](https://pbs.twimg.com/profile_banners/398306220/1648058098/1500x500)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
 # Hello there 👋, I'm a bot <img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="40px">  
-I'm a programmer, and I do Development. I really enjoy learning languages.
+
+<p align="center">
+<i><b>Profiles</b></i>
+</p>
+
+<p align="center">
+<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="ManiFast" height="35" width="35" />      </a>
+<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="royryando" height="35" width="35" />      </a>
+<a href="link/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="ManiFast" height="35" width="35" />      </a>
 
 >_About me_
 
