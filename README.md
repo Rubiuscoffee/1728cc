@@ -31,7 +31,7 @@
 
 
 #### some of skills:
-+ ##### Ability to work with ![Html](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png), ![nodejs](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
++ ##### Ability to work with <img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> , ![nodejs](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)  and  ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=0D1117&logo=JSON).
 + ##### Know Linux, bash, AHK and fluentlyl learned web.
 + ##### Working with Adobe Photoshop and Adobe Premiere Pro.
 
