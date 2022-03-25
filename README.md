@@ -37,6 +37,11 @@
 <img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> 
 </p>
 
+#### *16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="28"/> and in my free time I play games.
+####  I really enjoy learning languages and frameworks.
+####  My favorite performer is 10nonly.
+
+
 
 <p align="center">
 </p>
