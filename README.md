@@ -10,7 +10,7 @@
   
 
 <p align="center">
-<i><b>Profiles</b></i>
+<i><b>About me</b></i>
 </p>
 
 <p align="center">
