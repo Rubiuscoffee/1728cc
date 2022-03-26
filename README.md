@@ -13,24 +13,11 @@
 <i><b>About me</b></i>
 </p>
 
-<p align="center">
-<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="ManiFast" height="35" width="35" />      </a>
-<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="royryando" height="35" width="35" />      </a>
-<a href="link/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="ManiFast" height="35" width="35" />      </a>
+*16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="28"/> and in my free time I play games.
+I really enjoy learning languages and frameworks
+Now learning C++ and studying in Sena
+My favorite performer is 10nonly.
 
-  
-</p>
-
-
-
-
->_About me_
-
-#### *16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="28"/> and in my free time I play games.
-####  I really enjoy learning languages and frameworks.
-#### Now learning C++ and studying in Sena
-#### My favorite performer is 10nonly.
-###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
 
 
 
@@ -40,7 +27,17 @@
  <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
   
   
+  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
+
+
+<p align="center">
+<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="ManiFast" height="35" width="35" />      </a>
+<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="royryando" height="35" width="35" />      </a>
+<a href="link/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="ManiFast" height="35" width="35" />      </a>
+
+  
+</p>
