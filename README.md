@@ -8,8 +8,6 @@
   
  <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
   
-<p align="center"><i><b>About me !   </i></p> 
-  
   
 ### About me
 #### *16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="28"/> and in my free time I play games.
