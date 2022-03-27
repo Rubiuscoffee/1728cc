@@ -34,35 +34,4 @@
 <a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="royryando" height="35" width="35" />      </a>
 <a href="link/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="ManiFast" height="35" width="35" />      </a>
 
-```console
-notselwyn@nsa.local:~$ neofetch
-
-                   .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 notselwyn@nsa.local
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: 
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: 
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: 
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: 
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: 
-a@@@@@@@@@@2                                    v@@@@@@@@@@;    
-#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
-@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Discord: 
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: 
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    TryHackMe: 
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: 
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CodinGame:
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
-    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
-      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: 
-          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Neural Net Racing: 
-              "Lf8@@@@v              q@@@#Qa?:                 
-                  -!v|`              _?v!`                     
-```
-```console  
-
 </p>
