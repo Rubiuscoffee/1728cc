@@ -47,7 +47,7 @@
   
  <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![Rubiuh's github stats](https://github-readme-stats.vercel.app/api?username=elrubiuh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
   
