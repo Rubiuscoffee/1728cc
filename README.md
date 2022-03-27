@@ -13,7 +13,7 @@
 ##### • *16 yo*, interested in software and in my free time I play games.
 ##### • I really enjoy learning languages and frameworks
 ##### • Now learning C++ and studying in Sena
-##### • My favorite performer is 10nonly.
+##### • My favorite streamer is ElRubius.
 
 
 <p align="center">
