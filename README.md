@@ -26,7 +26,6 @@
 <img align="left" alt="Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-<img align="left" alt="Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img align="left" alt="Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 <br />
   
@@ -45,17 +44,7 @@
 ![Rubiuh's github stats](https://github-readme-stats.vercel.app/api?username=elrubiuh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
   
-  
-  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
-
-
-<p align="center">
-<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="ManiFast" height="35" width="35" />      </a>
-<a href="link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="royryando" height="35" width="35" />      </a>
-<a href="link/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="ManiFast" height="35" width="35" />      </a>
-
-</p>
