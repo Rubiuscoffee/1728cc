@@ -10,10 +10,10 @@
   
   
 ### About me
-#### *16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="28"/> and in my free time I play games.
-#### I really enjoy learning languages and frameworks
-#### Now learning C++ and studying in Sena
-#### My favorite performer is 10nonly.
+##### *16 yo*, interested in software <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/1x" width="28"/> and in my free time I play games.
+##### I really enjoy learning languages and frameworks
+##### Now learning C++ and studying in Sena
+##### My favorite performer is 10nonly.
 
 
 
