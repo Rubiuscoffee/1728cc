@@ -31,7 +31,12 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tj4534vleq0m3rnwnqndfpw21&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
-
+<p align="center">
+</p>
+  
+ <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
+  
+  
   
   
 ### Languages and Tools:
