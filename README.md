@@ -12,7 +12,7 @@
 ### About me:
 ##### • *16 yo*, interested in software and in my free time I play games.
 ##### • I really enjoy learning languages and frameworks
-##### • Now learning C++ and studying in Sena
+##### • Now learning Html and studying in Sena
 ##### • My favorite Streamer is ElRubius.
 
 
