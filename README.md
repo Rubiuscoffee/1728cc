@@ -27,8 +27,8 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886)](https://discord.com/users/631147962629881886)
 
 
-[![Spotify](https://spotify-box-bizf7dt7z-elrubiuh.vercel.app/)](/https://open.spotify.com/user/tj4534vleq0m3rnwnqndfpw21)
-
+<h2 align="center">Spotify</h2>
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
 <br />
   
   
