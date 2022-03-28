@@ -53,20 +53,11 @@
 
 ### GitHub Stats:
 
-<h2 align="center">Github Stats</h2>
-
-<div align="center">
-<details>
-  
-  <summary>Click to Show Stats</summary>
-
 <img src="https://github-readme-stats.vercel.app/api?username=ElRubiuh&show_icons=true&theme=dark&hide_border=true&border_radius=&custom_title=ElRubiuh's Stats&include_all_commits=true" />
 <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ElRubiuh&theme=dark&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElRubiuh&theme=dark&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
 
-</detalles>
-  </div>
-  
+
 
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
