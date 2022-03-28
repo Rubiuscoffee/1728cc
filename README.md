@@ -53,11 +53,6 @@
 
 ### GitHub Stats:
 
-<div align="center">
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ElRubiuh&theme=dark&hide_border=true">
-<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElRubiuh&theme=dark&hide_border=true&layout=compact">
-</div>
-
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
