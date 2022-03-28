@@ -27,9 +27,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886)](https://discord.com/users/631147962629881886)
 
 
-<h2 align="center">Spotify</h2>
-<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=derin9999&cover_image=true&theme=default"/></a></div>
-<br />
+
   
   
 ### Languages and Tools:
