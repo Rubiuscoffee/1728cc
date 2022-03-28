@@ -1,5 +1,5 @@
 
-[![Header](https://discord.com/channels/@me/631163630729035787/958117724750479463)](https://www.youtube.com/watch?v=804cYaQqn_A)
+[![Header](https://media.discordapp.net/attachments/631163630729035787/958117724964401172/13_sin_titulo_20220328163730.png?width=1024&height=341)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
 <p align="center"><i><b>Hello there !     </b><img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="25"/></i></p> 
 
