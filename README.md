@@ -29,14 +29,10 @@
   
   <summary>Click to Show Social</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=d3r1n&show_icons=true&theme=dracula&hide_border=true&border_radius=25&custom_title=d3r1n's Stats&include_all_commits=true" />
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
-  
+[![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886)](https://discord.com/users/631147962629881886)
+
 </details>
   </div>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886)](https://discord.com/users/631147962629881886)
 
 <img align="left" alt="Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
