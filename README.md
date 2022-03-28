@@ -35,10 +35,14 @@
 </p>
   
  <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
-  
-  
-  
-  
+
+
+### GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=ElRubiuh&show_icons=true&theme=dark&hide_border=true&border_radius=&custom_title=ElRubiuh's Stats&include_all_commits=true" />
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ElRubiuh&theme=dark&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElRubiuh&theme=dark&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
+
 ### Languages and Tools:
   
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -48,16 +52,6 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
 <img align="left" alt="Replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />  
 <br />
-
-
-
-### GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=ElRubiuh&show_icons=true&theme=dark&hide_border=true&border_radius=&custom_title=ElRubiuh's Stats&include_all_commits=true" />
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ElRubiuh&theme=dark&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElRubiuh&theme=dark&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
-
-
 
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
