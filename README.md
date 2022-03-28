@@ -27,7 +27,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886)](https://discord.com/users/631147962629881886)
 
 
-
+[![Spotify](https://spotify-box-bizf7dt7z-elrubiuh.vercel.app/)](https://open.spotify.com/user/USER_NAME)
 
 <br />
   
