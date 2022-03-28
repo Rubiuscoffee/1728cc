@@ -24,14 +24,8 @@
   
 ### Social
 
-
-<details>
-  
-  <summary>Click to Show Social</summary>
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886)](https://discord.com/users/631147962629881886)
 
-</details>
 
 
 
