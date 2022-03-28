@@ -21,9 +21,9 @@
   
  <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
   
-### Conéctate conmigo:
+### Social:
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">Social</h2>
 
 <div align="center">
 <details>
