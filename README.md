@@ -53,6 +53,11 @@
 <img align="left" alt="Replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />  
 <br />
 
+<p align="center">
+</p>
+  
+ <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
+  
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
