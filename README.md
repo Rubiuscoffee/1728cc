@@ -58,6 +58,11 @@
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElRubiuh&theme=dark&hide_border=true&layout=compact">
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ElRubiuh&show_icons=true&theme=dark&hide_border=true&border_radius=25&custom_title=d3r1n's Stats&include_all_commits=true" />
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3r1n&theme=dracula&hide_border=true&border_radius=25" alt="d3r1n" /></p>
+  
+
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
