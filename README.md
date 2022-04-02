@@ -24,7 +24,7 @@
   
 ### Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886?theme=:black)](https://discord.com/users/631147962629881886)
+[![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886?idleMessage=:약속해 줘 만날 거라고 다시)](https://discord.com/users/631147962629881886)
 
 ### Spotify
 
