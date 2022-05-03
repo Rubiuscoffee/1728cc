@@ -49,9 +49,9 @@
 
 ### GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElRubiuh&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=&custom_title=ElRubiuh's Stats&include_all_commits=true" />
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ElRubiuh&theme=midnight-purple&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElRubiuh&theme=midnight-purple&hide_border=true&border_radius=" alt="ElRubiuh" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ElRubiuswtf&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=&custom_title=ElRubius Stats&include_all_commits=true" />
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ElRubiuswtf&theme=midnight-purple&hide_border=true&border_radius=" alt="ElRubiuswtf" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElRubiuswtf&theme=midnight-purple&hide_border=true&border_radius=" alt="ElRubiuswtf" /></p>
 
 <br />
 
