@@ -33,7 +33,7 @@
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
 
-| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> |
+| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> 
 |:---: | :---: | :---: | :---:|
 | <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> |
 | <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | 
