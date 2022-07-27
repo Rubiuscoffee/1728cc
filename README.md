@@ -50,9 +50,9 @@
 
 ### GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=rubiusraspberry&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=&custom_title=ElRubius Stats&include_all_commits=true" />
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=rubiusraspberry&theme=midnight-purple&hide_border=true&border_radius=" alt="ElRubiuswtf" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiusraspberry&theme=midnight-purple&hide_border=true&border_radius=" alt="ElRubiuswtf" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=RubiusLove&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=&custom_title=RubiusLove Stats&include_all_commits=true" />
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=RubiusLove&theme=midnight-purple&hide_border=true&border_radius=" alt="RubiusLove" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubiusLove&theme=midnight-purple&hide_border=true&border_radius=" alt="RubiusLove" /></p>
 
 <br />
 
