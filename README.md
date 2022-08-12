@@ -1,4 +1,8 @@
+<p align="center">
+</p>
 
+ <img src="https://cdn.discordapp.com/attachments/717821702180044862/729449197480181810/color_seperater_thingy.gif" width="1500"/>
+ 
 ## About me:
 ##### • *16 yo*, interested in software and in my free time I play games.
 ##### • I really enjoy learning languages and frameworks
