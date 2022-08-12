@@ -1,6 +1,4 @@
 
-[![Header](https://images-ext-1.discordapp.net/external/NVBWIaXZDZJ-_pU9vK_CejPc3k7vbEv7x8g81_RiDl8/https/pbs.twimg.com/profile_banners/2865649788/1635950751/1500x500?width=960&height=320)](https://www.youtube.com/watch?v=804cYaQqn_A)
-
 <p align="center"><i><b>Hello there !     </b><img src="https://cdn.betterttv.net/emote/6000de22465444316bf6433e/3x" width="25"/></i></p> 
 
 <p align="center">
