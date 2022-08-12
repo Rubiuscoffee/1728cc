@@ -9,7 +9,11 @@
 ##### • Now learning Html and studying in Sena
 ##### • My favorite Streamer is ElRubius.
 
-  
+<p align="center">
+</p>
+
+ <img src="https://cdn.discordapp.com/attachments/717821702180044862/729449197480181810/color_seperater_thingy.gif" width="825"/>
+ 
   
 ### Discord
 
@@ -20,11 +24,12 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tj4534vleq0m3rnwnqndfpw21&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
-
 <p align="center">
 </p>
-  
- <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
+
+ <img src="https://cdn.discordapp.com/attachments/717821702180044862/729449197480181810/color_seperater_thingy.gif" width="825"/>
+ 
+
 
 ### Languages and Tools:
   
@@ -47,9 +52,9 @@
 
 <p align="center">
 </p>
-  
- <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
-  
+
+ <img src="https://cdn.discordapp.com/attachments/717821702180044862/729449197480181810/color_seperater_thingy.gif" width="825"/>
+ 
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
