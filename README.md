@@ -42,6 +42,11 @@
 
 <br />
 
+<p align="center">
+</p>
+
+ <img src="https://cdn.discordapp.com/attachments/717821702180044862/729449197480181810/color_seperater_thingy.gif" width="825"/>
+
 ### GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=RubiusLove&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=&custom_title=RubiusLove&Stats&include_all_commits=true" />
