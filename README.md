@@ -1,8 +1,5 @@
-<p align="center">
-</p>
+[![Header](https://images-ext-1.discordapp.net/external/NVBWIaXZDZJ-_pU9vK_CejPc3k7vbEv7x8g81_RiDl8/https/pbs.twimg.com/profile_banners/2865649788/1635950751/1500x500?width=960&height=320)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
- <img src="https://cdn.discordapp.com/attachments/717821702180044862/729449197480181810/color_seperater_thingy.gif" width="825"/>
- 
 ## About me:
 ##### • *16 yo*, interested in software and in my free time I play games.
 ##### • I really enjoy learning languages and frameworks
