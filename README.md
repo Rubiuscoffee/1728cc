@@ -1,4 +1,4 @@
-[![Header]([https://images-ext-1.discordapp.net/external/NVBWIaXZDZJ-_pU9vK_CejPc3k7vbEv7x8g81_RiDl8/https/pbs.twimg.com/profile_banners/2865649788/1635950751/1500x500?width=960&height=320](https://media.discordapp.net/attachments/631163630729035787/1007474426742313060/unknown.png?width=960&height=320))](https://www.youtube.com/watch?v=804cYaQqn_A)
+[![Header](https://media.discordapp.net/attachments/631163630729035787/1007474426742313060/unknown.png?width=960&height=320)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
 ## About me:
 ##### • *16 yo*, interested in software and in my free time I play games.
