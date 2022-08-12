@@ -1,15 +1,10 @@
 
-### About me:
-##### • *16 yo*, interested in software and in my free time I play games.
-##### • I really enjoy learning languages and frameworks
-##### • Now learning Html and studying in Sena
-##### • My favorite Streamer is ElRubius.
+## About me:
+###### • *16 yo*, interested in software and in my free time I play games.
+###### • I really enjoy learning languages and frameworks
+###### • Now learning Html and studying in Sena
+###### • My favorite Streamer is ElRubius.
 
-
-<p align="center">
-</p>
-  
- <img src="https://images-ext-1.discordapp.net/external/yZbwbJqsqcVdejYUVXqqYgmlYlIout-tCcYizOtXEWE/https/media.discordapp.net/attachments/851143791083257886/851771495691714570/embed.png" width="1500"/>
   
   
 ### Discord
