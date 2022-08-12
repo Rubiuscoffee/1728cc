@@ -1,4 +1,4 @@
-[![Header](https://media.discordapp.net/attachments/631163630729035787/1007474426742313060/unknown.png?width=960&height=320)](https://www.youtube.com/watch?v=804cYaQqn_A)
+[![Header](https://media.discordapp.net/attachments/631163630729035787/1007495008598892595/20220811_224508.jpg?width=988&height=329)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
 ## About me:
 ##### • *16 yo*, interested in software and in my free time I play games.
