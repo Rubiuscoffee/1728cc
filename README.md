@@ -1,3 +1,3 @@
 
 
-[![Metrics](/github-metrics.svg)](https://github.com/RubiusLove)
+![Metrics](/github-metrics.svg)
