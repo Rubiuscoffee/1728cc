@@ -1,6 +1,6 @@
 [![Header](https://media.discordapp.net/attachments/631163630729035787/1007474426742313060/unknown.png?width=960&height=320)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
-<img src="/github-metrics.svg" alt="Metrics" width="60%">
+<img src="/github-metrics.svg" alt="Metrics" width="55%">
 
   
 ### Discord
@@ -21,3 +21,5 @@
 
 <p align="center">
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
