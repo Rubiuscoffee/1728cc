@@ -45,3 +45,5 @@
  
 
 ###### *«While they were playing games, lounging and walking, I was developing, moving forward and made progress.»*.
+
+[![Metrics](/github-metrics.svg)](https://github.com/RubiusLove)
