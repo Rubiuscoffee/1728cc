@@ -1,4 +1,4 @@
-[![Header](https://media.discordapp.net/attachments/631163630729035787/1007474426742313060/unknown.png?width=960&height=320)](https://www.youtube.com/watch?v=804cYaQqn_A)
+[![Header](https://media.discordapp.net/attachments/631163630729035787/1041822517842686063/unknown.png)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
 <p align="center">
 </p>
