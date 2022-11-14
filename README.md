@@ -1,11 +1,5 @@
 [![Header](https://media.discordapp.net/attachments/631163630729035787/1007474426742313060/unknown.png?width=960&height=320)](https://www.youtube.com/watch?v=804cYaQqn_A)
 
-## About me:
-##### • *16 yo*, interested in software and in my free time I play games.
-##### • I really enjoy learning languages and frameworks
-##### • Now learning Html and studying in Sena
-##### • My favorite Streamer is ElRubius.
-
 <p align="center">
 </p>
 
